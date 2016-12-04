@@ -1,2 +1,3 @@
-# herero
-In depth exploration of the Herero and Namaqua genocide
+# The 'Good' Wehrmacht
+
+Visual Essay detailing War Crimes commited by the Wehrmacht in World War 2
