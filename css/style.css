@@ -267,15 +267,16 @@ hr {
 	padding: 20px 10px;
 }
 #services h2 {
-	color: #f6f6f6;
+	color: #000000;
 }
 #services h3 {
 	font-size: 20px;
 	font-weight: 600;
-	color: #f6f6f6;
+	color: #000000;
 }
 #services p {
 	color: rgba(255,255,255,0.7);
+	background: #000000;
 }
 .space {
 	margin-top: 40px;
