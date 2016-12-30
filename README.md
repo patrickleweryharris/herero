@@ -7,9 +7,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/patrickleweryharris/photorenamer/blob/master/LICENSE.txt) [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> Visual Essay on War Crimes committed by the Wehrmacht in World War 2
+> The myth of innocence in Post War Germany
 
-TODO: Fill out this long description.
+A visual essay for HIS341 detailing war crimes committed by the Wehrmacht in World War Two, and the tendency in Post War Germany to lay all the blame for war crimes on the Nazi Party and the SS.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ TODO: Fill out this long description.
 
 ## Background
 
-TODO
+A final report for HIS341 2016 - 17 at UofT
 
 ## Contribute
 
