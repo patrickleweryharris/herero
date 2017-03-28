@@ -22,4 +22,6 @@ A final report for HIS341 2016 - 17 at UofT
 
 ## License
 
-MIT © Patrick Harris
+The written content of this site is [CC - BY - SA](https://creativecommons.org/licenses/by-sa/3.0/) © Patrick Harris
+
+The code of the site is considered to be under MIT 
